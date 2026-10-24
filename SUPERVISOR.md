@@ -10,9 +10,9 @@ ChatGPT などの監修役AIに、最初に一度だけ貼り付ける指示文�
 
 最新の公式設定は次の場所にあります。作業の前に、該当する世界観の資料を読んでください。
 
-- 一覧:https://github.com/RugeWorks/{リポジトリ名}
-- 灯籠の都:https://github.com/RugeWorks/{リポジトリ名}/blob/main/toro-no-miyako/settei.md
-- みくまり町の記録:https://github.com/RugeWorks/{リポジトリ名}/blob/main/mikumari/settei.md
+- 一覧:https://github.com/RugeWorks/rugeworks-worlds
+- 灯籠の都:https://github.com/RugeWorks/rugeworks-worlds/blob/main/toro-no-miyako/settei.md
+- みくまり町の記録:https://github.com/RugeWorks/rugeworks-worlds/blob/main/mikumari/settei.md
 
 URLを読み込めない場合は、そう伝えてください。ルゲが資料を直接貼り付けます。推測で設定を補わないでください。
 

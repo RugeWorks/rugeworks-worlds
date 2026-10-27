@@ -8,7 +8,7 @@ RugeWorks が展開する創作プロジェクトの公式設定資料集です�
 
 | 世界観 | 状態 | 資料 |
 | --- | --- | --- |
-| 灯籠の都(仮題) | 準備中 | [toro-no-miyako/settei.md](./toro-no-miyako/settei.md) |
+| 灯籠の都(仮題) | 準備中 | [設定](./toro-no-miyako/settei.md)・[人物像](./toro-no-miyako/characters.md)・[画像の指示](./toro-no-miyako/image-prompts.md) |
 | みくまり町の記録(仮題) | 準備中 | [mikumari/settei.md](./mikumari/settei.md) |
 
 ## 資料の読み方

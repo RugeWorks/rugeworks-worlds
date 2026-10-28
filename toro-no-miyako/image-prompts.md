@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-28
+版:2026-10-28 22:40
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -31,7 +31,7 @@
 | 人物 | 身長 | 体格 |
 | --- | --- | --- |
 | ツグミ | 約155cm | 小柄 |
-| 九郎 | 約175cm | なで肩でひょろりとした細身。手と腕だけが鍛えられている |
+| 九郎 | 約172cm | なで肩でひょろりとした細身の少年。手と腕だけが鍛えられている |
 | シオン | 約163cm | 中肉中背 |
 
 ## キャラクターシートの指示文
@@ -59,14 +59,14 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 Japanese anime style character reference sheets, plain light background. Create TWO separate design proposals (Version A and Version B) of the same character.
 Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients. Simple anime style with fewer lines. Must not resemble any existing anime character.
 
-Kurou, 22-year-old disinherited swordsman in an alternate modern Japan where traditional culture survived into 2026.
-He is a sword fool: he cares about nothing but swordsmanship and lacks common sense entirely. He is NOT handsome-cool, NOT gentle-handsome, NOT charming, NOT wild, NOT clever. He looks like an odd, unworldly man.
-Face: almost expressionless at all times. A deadpan, unblinking face with eyes always staring straight ahead. His expression barely changes even when he says something absurd.
-Body: about 175 cm, lanky with sloping shoulders (narrow, drooping shoulders), wiry rather than muscular-looking; only his hands and forearms look hardened from training.
+Kurou, 18-year-old disinherited swordsman in an alternate modern Japan where traditional culture survived into 2026. He is a teenage boy, not an adult man.
+He is a sword fool: he cares about nothing but swordsmanship and lacks common sense entirely. He is NOT handsome, NOT cool, NOT gentle-handsome, NOT charming, NOT wild, NOT clever. An ordinary, plain-looking, slightly odd teenage boy.
+Face: a plain, average-looking boyish face, not a pretty boy and not a rugged man. Almost expressionless at all times: a deadpan, unblinking face with eyes always staring straight ahead. His expression barely changes even when he says something absurd.
+Body: about 172 cm, skinny and lanky with clearly sloping, narrow shoulders. NOT muscular, NOT broad-shouldered, NOT tall and imposing. Only his hands look hardened from training.
 Hair: long straight black hair reaching his mid-back, tied in a single low ponytail at the nape.
-Clothes: one old indigo kimono and hakama he took from his family home and keeps wearing: originally fine quality but now faded, frayed at the hems and patched. On the back, the family crest has been removed, leaving only a faded mark where the crest used to be.
+Clothes: one old indigo kimono and hakama he took from his family home and keeps wearing: originally fine quality but now visibly faded, frayed at the hems and patched in several places. On the back, the family crest has been removed, leaving only a faded mark where the crest used to be.
 Sword: only one katana, which cannot be drawn; its scabbard is wrapped with paper talismans and tied shut with a red cord.
-Modern items: worn-out black sneakers, a convenience store plastic bag with cat treats. He has NO phone at all.
+Modern items: worn-out black sneakers, a convenience store plastic bag with cat treats. He has NO phone at all: do not draw any phone or flip phone anywhere.
 
 Version A: the above description as written.
 Version B: push it further: an even stranger, more deadpan and absurd look, extremely stiff and formal posture, as if he does not understand the modern world at all.

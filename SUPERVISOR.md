@@ -8,11 +8,15 @@ ChatGPT などの監修役AIに、最初に一度だけ貼り付ける指示文�
 
 ## 最新の設定
 
-最新の公式設定は次の場所にあります。作業の前に、該当する世界観の資料を読んでください。
+最新の公式設定は次の場所にあります。作業の前に、該当する世界観の資料を読んでください。古い版が読み込まれるのを防ぐため、次の raw の URL(本文だけを表示するURL)を使ってください。
 
-- 一覧:https://github.com/RugeWorks/rugeworks-worlds
-- 灯籠の都:https://github.com/RugeWorks/rugeworks-worlds/blob/main/toro-no-miyako/settei.md
-- みくまり町の記録:https://github.com/RugeWorks/rugeworks-worlds/blob/main/mikumari/settei.md
+- 一覧:https://raw.githubusercontent.com/RugeWorks/rugeworks-worlds/main/README.md
+- 灯籠の都 設定:https://raw.githubusercontent.com/RugeWorks/rugeworks-worlds/main/toro-no-miyako/settei.md
+- 灯籠の都 人物像:https://raw.githubusercontent.com/RugeWorks/rugeworks-worlds/main/toro-no-miyako/characters.md
+- 灯籠の都 画像の指示:https://raw.githubusercontent.com/RugeWorks/rugeworks-worlds/main/toro-no-miyako/image-prompts.md
+- みくまり町の記録 設定:https://raw.githubusercontent.com/RugeWorks/rugeworks-worlds/main/mikumari/settei.md
+
+**版の確認**:各資料の冒頭に「版:日付」があります。資料を読んだら、作業の最初に、読んだ資料の版の日付を報告してください。ルゲが伝えた日付と違う場合は古い版を読んでいる可能性があるので、読み直すか、そのことを伝えてください。検索結果やキャッシュの内容ではなく、必ず上のURLを直接読んでください。
 
 URLを読み込めない場合は、そう伝えてください。ルゲが資料を直接貼り付けます。推測で設定を補わないでください。
 

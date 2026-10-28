@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-29 01:30
+版:2026-10-29 02:10
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -111,3 +111,27 @@ Include: full body front, side and back views with the same items in every view;
 expressions: sarcastic smirk, overworked and exhausted staring into space, cold smile while pointing out a loophole, perfectly polite but frightening with slightly flushed cheeks (drunk), calm and focused while writing;
 one pose standing with the ledger open on her forearm, writing with the brush in a calm, precise motion;
 close-ups of the ledger, brush, ink stone, ID card, smartwatch and the brush in her hair bun. No animals. No text in the image.
+
+### 3人の集合絵(画風と身長合わせ)
+
+**2026-10-29 作成**。絵師殿の新しいチャットで、3人のキャラクターシートを「ツグミ → 九郎 → シオン」の順に添付して使う。目的は画風と身長のバランスをそろえることなので、まずは並んで立つだけの絵にする。見栄えのする場面の絵は、この後に作る。
+
+注意:
+- 九郎のシートだけ、塗りが濃く傷みの表現が細かい。ツグミ・シオンの明るく平たい塗りに合わせる
+- 3人の顔が混ざりやすいので、添付画像の順番と各人の特徴を文章でも書く
+- シオンはふだんの姿(焦げ茶のまとめ髪)。覚醒の姿にしない
+
+```
+I attached three character reference sheets in this order: 1st = Tsugumi, 2nd = Kurou, 3rd = Shion.
+Draw all three standing side by side in one image, full body, front view, relaxed natural poses, plain flat light background. No scenery, no animals, no text.
+
+Purpose: unify the art style and show correct height differences.
+Art style for all three: clean bold line art, flat cel shading with soft minimal shadows, limited color palette, light and bright overall tone, like the 1st and 3rd sheets. Draw Kurou in this same lighter, simpler style (keep his clothes worn and patched, but with fewer fine details and no heavy dark texture).
+
+Heights (very important): Tsugumi about 155 cm (the shortest), Shion about 163 cm (middle), Kurou about 172 cm (the tallest). Order from left to right: Tsugumi, Kurou, Shion.
+
+Keep each face and design exactly as in their own sheet. Do not mix faces or hairstyles between them.
+- Tsugumi: 17, short madder-red hair with a red cord, white and vermilion miko outfit, small paper lantern at her waist, white sneakers, one wireless earbud. Dreamy expression, looking slightly off to the side.
+- Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one katana with a talisman-wrapped scabbard tied with a red cord, worn black sneakers, convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
+- Shion: 22, warm dark brown hair (clearly brown, not black) in a bun with a writing brush stuck through it, round glasses with large round brown eyes, dark green haori, black sleeve covers, light ash-gray hakama, white socks and black loafers, staff ID lanyard, thick ledger. Slightly tired, sarcastic small smile.
+```

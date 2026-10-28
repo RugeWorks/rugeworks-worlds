@@ -30,11 +30,15 @@
 
 ```
 Japanese anime style character reference sheet, plain light background.
+Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
 Tsugumi, 17-year-old shrine maiden apprentice in an alternate modern Japan where traditional culture survived into 2026.
-Short madder-red (reddish auburn) hair tied with a thin red cord, bright warm eyes, cheerful but slightly shy.
-White and vermilion miko outfit, a small paper lantern hanging at her waist, a small handwritten notebook in her hand.
-Include: full body front, side and back views; expressions: smiling, flustered and frozen when praised, gently talking to a small spirit, determined.
-Close-ups of the waist lantern and the notebook. No text in the image.
+Personality: usually a dreamy, easygoing girl who seems to listen to voices others cannot hear; becomes dignified and sharp only when something truly matters.
+Short madder-red (reddish auburn) hair tied with a thin red cord.
+Traditional white and vermilion miko outfit, a small paper lantern hanging at her waist, a small handwritten notebook.
+Modern items: white sneakers instead of traditional sandals, a smartphone peeking from her sleeve with a small lantern-shaped charm, one wireless earbud in one ear.
+Include: full body front, side and back views with the same items in every view;
+expressions: dreamily gazing into the air, smiling and talking toward empty space, tilting her head, frozen with a completely blank face when praised, and one dignified serious face with a straight gaze.
+Close-ups of the waist lantern, the notebook and the smartphone with its charm. No animals. No text in the image.
 ```
 
 ### 九郎

@@ -26,6 +26,14 @@
 | 九郎 | 刀 | 黒の長髪を後ろで束ねる | 濃紺 |
 | シオン | 帳 | 焦げ茶の髪をきっちりまとめる | 深緑 |
 
+## 3人の身長(案)
+
+| 人物 | 身長 | 体格 |
+| --- | --- | --- |
+| ツグミ | 約155cm | 小柄 |
+| 九郎 | 約175cm | 細身の筋肉質 |
+| シオン | 約163cm | 中肉中背 |
+
 ## キャラクターシートの指示文
 
 ### ツグミ
@@ -49,9 +57,10 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 Japanese anime style character reference sheet, plain light background.
 Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
 Kurou, 22-year-old disinherited samurai swordsman in an alternate modern Japan where traditional culture survived into 2026.
-He must look like a mature adult man, clearly older and much taller than a 17-year-old girl: about 185 cm, broad shoulders, solid muscular build, sharp adult face with a strong jaw and narrow serious eyes.
-Long straight black hair reaching his mid-back, neatly tied in a single low ponytail. Not short hair, not messy hair.
-Personality: a stubborn, sword-obsessed, extremely serious and formal man; never playful or flirtatious; always upright posture with his kimono collar neatly closed; never puts hands in pockets.
+Height about 175 cm, a lean but muscular build (slim and toned, not bulky, not broad and rugged). A young adult face of a 22-year-old: clean and handsome, straight eyebrows, serious but slightly innocent eyes; not wild, not rugged, not a veteran warrior.
+Long straight black hair reaching his mid-back, neatly and tightly tied in a single low ponytail at the nape, with only a few loose strands. Not short hair, not wild messy hair.
+Personality: a stubborn, sword-obsessed, extremely serious and formal young man; slightly naive and unintentionally funny; never playful or flirtatious; always upright posture with his kimono collar neatly closed; never puts hands in pockets.
+Art style: clean light-novel anime illustration style, softer and simpler than a gritty seinen style.
 Dark indigo kimono and hakama, plain and austere with almost no decoration.
 Only one katana, which cannot be drawn: its scabbard is wrapped with paper talismans and tied shut with a red cord.
 Modern items: an old flip phone (he refuses smartphones), black tabi-style sneakers, a convenience store plastic bag with cat treats.

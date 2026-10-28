@@ -57,15 +57,17 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 Japanese anime style character reference sheet, plain light background.
 Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
 Kurou, 22-year-old disinherited samurai swordsman in an alternate modern Japan where traditional culture survived into 2026.
-Height about 175 cm, a lean but muscular build (slim and toned, not bulky, not broad and rugged). A young adult face of a 22-year-old: clean and handsome, straight eyebrows, serious but slightly innocent eyes; not wild, not rugged, not a veteran warrior.
-Long straight black hair reaching his mid-back, neatly and tightly tied in a single low ponytail at the nape, with only a few loose strands. Not short hair, not wild messy hair.
-Personality: a stubborn, sword-obsessed, extremely serious and formal young man; slightly naive and unintentionally funny; never playful or flirtatious; always upright posture with his kimono collar neatly closed; never puts hands in pockets.
-Art style: clean light-novel anime illustration style, softer and simpler than a gritty seinen style.
+Height about 175 cm, a lean but muscular build (slim and toned, not bulky).
+He is a sheltered son of a noble samurai family who knows nothing but swordsmanship: unworldly, naive, honest and earnest. NOT cool, NOT street-smart, NOT a charming rogue, NOT a wild veteran.
+Face: a simple, plain young face; round honest eyes with an earnest, slightly blank look; straight eyebrows; he often looks seriously puzzled. Fewer facial lines, no sharp or seductive look.
+Long straight black hair reaching his mid-back, neatly and tightly tied in a single low ponytail at the nape. Tidy, not wild or messy.
+Personality: stubborn, sword-obsessed and extremely serious; unintentionally funny because he takes everything literally; always upright posture with his kimono collar neatly closed.
+Art style: simple and clean anime style with fewer lines and flat colors, closer to a comedic-yet-serious TV anime than a gritty seinen illustration. Must not resemble any existing anime character.
 Dark indigo kimono and hakama, plain and austere with almost no decoration.
 Only one katana, which cannot be drawn: its scabbard is wrapped with paper talismans and tied shut with a red cord.
 Modern items: an old flip phone (he refuses smartphones), black tabi-style sneakers, a convenience store plastic bag with cat treats.
 Include: full body front, side and back views with the same items in every view;
-expressions: stoic, polite deep bow, confused because he does not understand a joke, rare small smile, intense fighting face.
+expressions: earnest blank stare, polite deep bow, seriously puzzled because he does not understand a joke, clumsy rare smile, intense fighting face.
 One action pose striking with the sheathed sword in a beautiful formal stance.
 Close-ups of the talisman-sealed scabbard, the flip phone and the cat treat bag. No animals. No text in the image.
 ```

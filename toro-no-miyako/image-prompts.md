@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-28 23:50
+版:2026-10-29 00:10
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -83,15 +83,29 @@ close-ups of the talisman-sealed scabbard, the removed family crest mark on the 
 
 ### シオン
 
+**2026-10-28 改訂**。ツグミ・九郎のシート作りで分かったことを反映した。絵師殿の新しいチャットで使い、他のキャラの画像は添付しない。
+
+改訂の要点:
+- 「丸眼鏡の皮肉屋の事務員」はよくある型なので、シオンだけの目印を足した(案):**髪のまとめ髪に簪の代わりに筆を挿している**、**袖に事務用の黒い袖カバー**、**右手の指先に墨の汚れ**
+- 髪は「温かみのある焦げ茶」。九郎の真っ黒と見分けられるよう、黒にしないと明記
+- 美人・色っぽさ・クールビューティーに寄せない。25歳の地味で疲れた女性
+- 九郎のシートで背景の場面が入ったため、無地の背景と場面なしを明記
+- 足元はツグミ・九郎と重ならないよう、スニーカーではなく黒い革のローファー
+
 ```
-Japanese anime style character reference sheet, plain light background.
-Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
-Shion, 25-year-old exhausted government clerk at a spirit records office in an alternate modern Japan where traditional culture survived into 2026.
-Personality: sarcastic and sharp-tongued, knows every rule and its loopholes, overworked; becomes perfectly polite and quietly frightening when drunk.
-Dark brown hair neatly tied up, round glasses, tired but sharp eyes.
-Plain kimono with a dark green haori, a thick ledger and a writing brush, an ink stone.
-Modern items: a staff ID card on a lanyard around her neck, a smartwatch on her wrist, a can of energy drink.
+Japanese anime style character reference sheet on a plain flat light background. No scenery, no background scenes, no panels with locations.
+Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical. Simple anime style with fewer lines. Must not resemble any existing anime character.
+
+Shion, 25-year-old overworked government clerk at a spirit records office in an alternate modern Japan where traditional culture survived into 2026. She is an adult woman, plain and tired-looking.
+She is NOT glamorous, NOT sexy, NOT a cool beauty, NOT a strict teacher type. An ordinary, slightly worn-out office worker with sharp, intelligent eyes.
+Personality: sarcastic and sharp-tongued, knows every rule and every loophole, chronically overworked; becomes perfectly polite and quietly frightening when drunk.
+Face: tired eyes with faint dark circles, round thin-framed glasses.
+Body: about 163 cm, average height and average build, slightly slouched posture from desk work.
+Hair: warm dark brown hair (clearly brown, NOT black), neatly tied up in a tight bun. Instead of a hairpin, a writing brush is stuck through the bun.
+Clothes: a plain muted kimono with a dark green haori. Black office sleeve covers (arm covers) over the kimono sleeves. Faint ink stains on the fingertips of her right hand.
+Items: a thick ledger bound with string, a writing brush, a small ink stone.
+Modern items: a staff ID card on a lanyard around her neck, a smartwatch on her left wrist, a can of energy drink. Plain black leather loafers (no sneakers).
 Include: full body front, side and back views with the same items in every view;
-expressions: sarcastic smirk, overworked and exhausted, cold smile pointing out a loophole, perfectly polite but frightening, calmly writing in the ledger.
-Close-ups of the ledger, brush, ink stone, ID card and smartwatch. No animals. No text in the image.
-```
+expressions: sarcastic smirk, overworked and exhausted staring into space, cold smile while pointing out a loophole, perfectly polite but frightening with slightly flushed cheeks (drunk), calm and focused while writing;
+one pose standing with the ledger open on her forearm, writing with the brush in a calm, precise motion;
+close-ups of the ledger, brush, ink stone, ID card, smartwatch and the brush in her hair bun. No animals. No text in the image.

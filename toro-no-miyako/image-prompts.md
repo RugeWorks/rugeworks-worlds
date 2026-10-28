@@ -31,7 +31,7 @@
 | 人物 | 身長 | 体格 |
 | --- | --- | --- |
 | ツグミ | 約155cm | 小柄 |
-| 九郎 | 約175cm | 細身の筋肉質 |
+| 九郎 | 約175cm | なで肩でひょろりとした細身。手と腕だけが鍛えられている |
 | シオン | 約163cm | 中肉中背 |
 
 ## キャラクターシートの指示文
@@ -53,23 +53,28 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 ### 九郎
 
+ゼロから描き直すため、方向の違う2案を作る。
+
 ```
-Japanese anime style character reference sheet, plain light background.
-Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
-Kurou, 22-year-old disinherited samurai swordsman in an alternate modern Japan where traditional culture survived into 2026.
-Height about 175 cm, a lean but muscular build (slim and toned, not bulky).
-He is a sheltered son of a noble samurai family who knows nothing but swordsmanship: unworldly, naive, honest and earnest. NOT cool, NOT street-smart, NOT a charming rogue, NOT a wild veteran.
-Face: a simple, plain young face; round honest eyes with an earnest, slightly blank look; straight eyebrows; he often looks seriously puzzled. Fewer facial lines, no sharp or seductive look.
-Long straight black hair reaching his mid-back, neatly and tightly tied in a single low ponytail at the nape. Tidy, not wild or messy.
-Personality: stubborn, sword-obsessed and extremely serious; unintentionally funny because he takes everything literally; always upright posture with his kimono collar neatly closed.
-Art style: simple and clean anime style with fewer lines and flat colors, closer to a comedic-yet-serious TV anime than a gritty seinen illustration. Must not resemble any existing anime character.
-Dark indigo kimono and hakama, plain and austere with almost no decoration.
-Only one katana, which cannot be drawn: its scabbard is wrapped with paper talismans and tied shut with a red cord.
-Modern items: an old flip phone (he refuses smartphones), black tabi-style sneakers, a convenience store plastic bag with cat treats.
-Include: full body front, side and back views with the same items in every view;
-expressions: earnest blank stare, polite deep bow, seriously puzzled because he does not understand a joke, clumsy rare smile, intense fighting face.
-One action pose striking with the sheathed sword in a beautiful formal stance.
-Close-ups of the talisman-sealed scabbard, the flip phone and the cat treat bag. No animals. No text in the image.
+Japanese anime style character reference sheets, plain light background. Create TWO separate design proposals (Version A and Version B) of the same character.
+Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients. Simple anime style with fewer lines. Must not resemble any existing anime character.
+
+Kurou, 22-year-old disinherited swordsman in an alternate modern Japan where traditional culture survived into 2026.
+He is a sword fool: he cares about nothing but swordsmanship and lacks common sense entirely. He is NOT handsome-cool, NOT gentle-handsome, NOT charming, NOT wild, NOT clever. He looks like an odd, unworldly man.
+Face: almost expressionless at all times. A deadpan, unblinking face with eyes always staring straight ahead. His expression barely changes even when he says something absurd.
+Body: about 175 cm, lanky with sloping shoulders (narrow, drooping shoulders), wiry rather than muscular-looking; only his hands and forearms look hardened from training.
+Hair: long straight black hair reaching his mid-back, tied in a single low ponytail at the nape.
+Clothes: one old indigo kimono and hakama he took from his family home and keeps wearing: originally fine quality but now faded, frayed at the hems and patched. On the back, the family crest has been removed, leaving only a faded mark where the crest used to be.
+Sword: only one katana, which cannot be drawn; its scabbard is wrapped with paper talismans and tied shut with a red cord.
+Modern items: worn-out black sneakers, a convenience store plastic bag with cat treats. He has NO phone at all.
+
+Version A: the above description as written.
+Version B: push it further: an even stranger, more deadpan and absurd look, extremely stiff and formal posture, as if he does not understand the modern world at all.
+
+Each sheet includes: full body front, side and back views with the same items in every view;
+expressions with almost no change: deadpan stare, deadpan deep formal bow, deadpan while saying something absurd, and an intense fighting face (the only clearly different one);
+one action pose striking with the sheathed sword in a beautiful formal stance;
+close-ups of the talisman-sealed scabbard, the removed family crest mark on the back, and the cat treat bag. No animals. No text in the image.
 ```
 
 ### シオン

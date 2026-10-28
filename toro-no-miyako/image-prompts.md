@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-28 22:40
+版:2026-10-28 23:50
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -53,7 +53,11 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 ### 九郎
 
-ゼロから描き直すため、方向の違う2案を作る。
+**基準画像:A案(2026-10-28 仮完成)**。以降は同じチャットで、この顔・髪型・体格を変えずに直す。B案(より爽やかな印象)は別の場面用に残しておく。
+
+注意:髪は「真っ黒(jet black)」。焦げ茶に寄りやすいので、シオンの焦げ茶と区別できるよう毎回指定する。動きは力任せにせず、礼法の型で美しく。
+
+以下は最初に2案を作ったときの指示文(記録用)。
 
 ```
 Japanese anime style character reference sheets, plain light background. Create TWO separate design proposals (Version A and Version B) of the same character.

@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-29 00:10
+版:2026-10-29 00:30
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -88,7 +88,7 @@ close-ups of the talisman-sealed scabbard, the removed family crest mark on the 
 改訂の要点:
 - 「丸眼鏡の皮肉屋の事務員」はよくある型なので、シオンだけの目印を足した(案):**髪のまとめ髪に簪の代わりに筆を挿している**、**袖に事務用の黒い袖カバー**、**右手の指先に墨の汚れ**
 - 髪は「温かみのある焦げ茶」。九郎の真っ黒と見分けられるよう、黒にしないと明記
-- 美人・色っぽさ・クールビューティーに寄せない。25歳の地味で疲れた女性
+- 美人・色っぽさ・クールビューティーに寄せない。22歳の地味で疲れた女性(10/29 に25歳から変更)
 - 九郎のシートで背景の場面が入ったため、無地の背景と場面なしを明記
 - 足元はツグミ・九郎と重ならないよう、スニーカーではなく黒い革のローファー
 
@@ -96,7 +96,7 @@ close-ups of the talisman-sealed scabbard, the removed family crest mark on the 
 Japanese anime style character reference sheet on a plain flat light background. No scenery, no background scenes, no panels with locations.
 Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical. Simple anime style with fewer lines. Must not resemble any existing anime character.
 
-Shion, 25-year-old overworked government clerk at a spirit records office in an alternate modern Japan where traditional culture survived into 2026. She is an adult woman, plain and tired-looking.
+Shion, 22-year-old overworked government clerk at a spirit records office in an alternate modern Japan where traditional culture survived into 2026. She is a young woman, plain and tired-looking, but clearly young, not middle-aged.
 She is NOT glamorous, NOT sexy, NOT a cool beauty, NOT a strict teacher type. An ordinary, slightly worn-out office worker with sharp, intelligent eyes.
 Personality: sarcastic and sharp-tongued, knows every rule and every loophole, chronically overworked; becomes perfectly polite and quietly frightening when drunk.
 Face: tired eyes with faint dark circles, round thin-framed glasses.

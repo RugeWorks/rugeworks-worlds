@@ -45,20 +45,31 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 ```
 Japanese anime style character reference sheet, plain light background.
+Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
+Same art style as the attached Tsugumi reference image.
 Kurou, 22-year-old disinherited samurai swordsman in an alternate modern Japan where traditional culture survived into 2026.
-Long black hair tied back, tall and strong build, serious and stoic face.
+Personality: stoic, stubborn and extremely serious; unintentionally funny because he takes everything too seriously; very polite and formal.
+Long black hair tied back, tall and strong build, serious face.
 Dark indigo hakama and kimono, a katana that cannot be drawn, its scabbard sealed with paper talismans.
-Include: full body front, side and back views; expressions: stoic, rare small smile, bowing politely, fighting stance striking with the sheathed sword.
-Close-up of the sealed scabbard. No text in the image.
+Modern items: an old flip phone (he refuses smartphones), black tabi-style sneakers, a convenience store plastic bag with cat treats.
+Include: full body front, side and back views with the same items in every view;
+expressions: stoic, polite bow, confused because he does not understand a joke, rare small smile, intense fighting face.
+One action pose striking with the sheathed sword in a beautiful formal stance.
+Close-ups of the sealed scabbard, the flip phone and the cat treat bag. No animals. No text in the image.
 ```
 
 ### シオン
 
 ```
 Japanese anime style character reference sheet, plain light background.
+Clean bold line art, flat cel shading with soft minimal shadows, limited color palette, no glossy highlights, no heavy gradients, not overly symmetrical.
+Same art style as the attached Tsugumi reference image.
 Shion, 25-year-old exhausted government clerk at a spirit records office in an alternate modern Japan where traditional culture survived into 2026.
-Dark brown hair neatly tied up, round glasses, tired but sharp eyes, sarcastic expression.
-Plain kimono with a dark green haori, holding a thick ledger and a writing brush, an ink stone at her side.
-Include: full body front, side and back views; expressions: sarcastic smile, overworked and tired, cold anger, calmly writing in the ledger.
-Close-ups of the ledger, brush and ink stone. No text in the image.
+Personality: sarcastic and sharp-tongued, knows every rule and its loopholes, overworked; becomes perfectly polite and quietly frightening when drunk.
+Dark brown hair neatly tied up, round glasses, tired but sharp eyes.
+Plain kimono with a dark green haori, a thick ledger and a writing brush, an ink stone.
+Modern items: a staff ID card on a lanyard around her neck, a smartwatch on her wrist, a can of energy drink.
+Include: full body front, side and back views with the same items in every view;
+expressions: sarcastic smirk, overworked and exhausted, cold smile pointing out a loophole, perfectly polite but frightening, calmly writing in the ledger.
+Close-ups of the ledger, brush, ink stone, ID card and smartwatch. No animals. No text in the image.
 ```

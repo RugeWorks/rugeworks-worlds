@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-30 08:00
+版:2026-10-30 08:20
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -45,7 +45,7 @@ Tsugumi, 17-year-old shrine maiden apprentice in an alternate modern Japan where
 Personality: usually a dreamy, easygoing girl who seems to listen to voices others cannot hear; becomes dignified and sharp only when something truly matters.
 Short madder-red (reddish auburn) hair tied with a thin red cord.
 Traditional white and vermilion miko outfit, a small paper lantern hanging at her waist, a small handwritten notebook.
-Modern items: white sneakers instead of traditional sandals, a smartphone peeking from her sleeve with a small lantern-shaped charm, one wireless earbud in one ear.
+Modern items: white sneakers instead of traditional sandals, a smartphone peeking from her sleeve with a small lantern-shaped charm, one small round stemless wireless earbud in one ear (no stem, no wire).
 Include: full body front, side and back views with the same items in every view;
 expressions: dreamily gazing into the air, smiling and talking toward empty space, tilting her head, frozen with a completely blank face when praised, and one dignified serious face with a straight gaze.
 Close-ups of the waist lantern, the notebook and the smartphone with its charm. No animals. No text in the image.
@@ -132,7 +132,7 @@ Art style for all three: clean bold line art, flat cel shading with soft minimal
 Heights (very important): Tsugumi about 155 cm (the shortest), Shion about 163 cm (middle), Kurou about 172 cm (the tallest). Order from left to right: Tsugumi, Kurou, Shion.
 
 Keep each face and design exactly as in their own sheet. Do not mix faces or hairstyles between them.
-- Tsugumi: 17, short madder-red hair with a red cord, white and vermilion miko outfit, small paper lantern at her waist, white sneakers, one wireless earbud. Dreamy expression, looking slightly off to the side.
+- Tsugumi: 17, short madder-red hair with a red cord, white and vermilion miko outfit, small paper lantern at her waist, white sneakers, one small round stemless wireless earbud (no stem, no wire). Dreamy expression, looking slightly off to the side.
 - Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one katana with a talisman-wrapped scabbard tied with a red cord, worn traditional zori sandals with off-white tabi socks (no sneakers), convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
 - Shion: 22, warm dark brown hair (clearly brown, not black) in a bun with a writing brush stuck through it, round glasses with large round brown eyes, dark green haori, black sleeve covers, light ash-gray hakama, white socks and black loafers, staff ID lanyard, thick ledger. Slightly tired, sarcastic small smile.
 ```

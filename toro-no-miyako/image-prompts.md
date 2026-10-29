@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-29 08:30
+版:2026-10-30 08:00
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -55,7 +55,7 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 **基準画像:A案(2026-10-28 仮完成)**。以降は同じチャットで、この顔・髪型・体格を変えずに直す。B案(より爽やかな印象)は別の場面用に残しておく。
 
-注意:顔の造りは整っているが地味(10/29)。美形として目立たせない。表情は真顔で、色気や爽やかさは出さない。注意:髪は「真っ黒(jet black)」。焦げ茶に寄りやすいので、シオンの焦げ茶と区別できるよう毎回指定する。動きは力任せにせず、礼法の型で美しく。
+注意:足元は草履に足袋(10/30 変更。以前はスニーカー)。顔の造りは整っているが地味(10/29)。美形として目立たせない。表情は真顔で、色気や爽やかさは出さない。注意:髪は「真っ黒(jet black)」。焦げ茶に寄りやすいので、シオンの焦げ茶と区別できるよう毎回指定する。動きは力任せにせず、礼法の型で美しく。
 
 以下は最初に2案を作ったときの指示文(記録用)。
 
@@ -70,7 +70,8 @@ Body: about 172 cm, skinny and lanky with clearly sloping, narrow shoulders. NOT
 Hair: long straight black hair reaching his mid-back, tied in a single low ponytail at the nape.
 Clothes: one old indigo kimono and hakama he took from his family home and keeps wearing: originally fine quality but now visibly faded, frayed at the hems and patched in several places. On the back, the family crest has been removed, leaving only a faded mark where the crest used to be.
 Sword: only one katana, which cannot be drawn; its scabbard is wrapped with paper talismans and tied shut with a red cord.
-Modern items: worn-out black sneakers, a convenience store plastic bag with cat treats. He has NO phone at all: do not draw any phone or flip phone anywhere.
+Footwear (changed 2026-10-30): worn traditional zori sandals with dark indigo thongs and off-white tabi socks. NO sneakers.
+Modern items: a convenience store plastic bag with cat treats. He has NO phone at all: do not draw any phone or flip phone anywhere.
 
 Version A: the above description as written.
 Version B: push it further: an even stranger, more deadpan and absurd look, extremely stiff and formal posture, as if he does not understand the modern world at all.
@@ -132,6 +133,6 @@ Heights (very important): Tsugumi about 155 cm (the shortest), Shion about 163 c
 
 Keep each face and design exactly as in their own sheet. Do not mix faces or hairstyles between them.
 - Tsugumi: 17, short madder-red hair with a red cord, white and vermilion miko outfit, small paper lantern at her waist, white sneakers, one wireless earbud. Dreamy expression, looking slightly off to the side.
-- Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one katana with a talisman-wrapped scabbard tied with a red cord, worn black sneakers, convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
+- Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one katana with a talisman-wrapped scabbard tied with a red cord, worn traditional zori sandals with off-white tabi socks (no sneakers), convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
 - Shion: 22, warm dark brown hair (clearly brown, not black) in a bun with a writing brush stuck through it, round glasses with large round brown eyes, dark green haori, black sleeve covers, light ash-gray hakama, white socks and black loafers, staff ID lanyard, thick ledger. Slightly tired, sarcastic small smile.
 ```

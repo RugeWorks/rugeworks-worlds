@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-11-01 16:30
+版:2026-11-01 16:50
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -64,7 +64,7 @@ Kurou's katana (fixed design, the same in every image):
 - A gentle, natural curve along its whole length like a real katana, never bent sharply or kinked.
 - The scabbard is a real katana scabbard shape (slim, slightly oval, tapering a little toward the tip), not a tube or a staff.
 - Handle: dark, plainly wrapped. A small round guard.
-- The scabbard is wrapped all along in paper talismans with faded red markings, tied shut with red cords crossing at regular intervals. Two red tassels hang from the cord near the bottom.
+- The scabbard is wrapped all along in paper talismans with faded red markings, tied shut with red cords crossing at regular intervals. No tassels anywhere on the sword (real katana scabbards have none).
 - Worn at his left hip, thrust through the sash. In standing sprites, his left hand rests lightly on the scabbard just below the guard.
 ```
 

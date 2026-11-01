@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-11-01 17:55
+版:2026-11-01 23:40
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -55,17 +55,10 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 **基準画像:A案(2026-10-28 仮完成)**。以降は同じチャットで、この顔・髪型・体格を変えずに直す。B案(より爽やかな印象)は別の場面用に残しておく。
 
-**刀の決まり(11/1 決定)**:九郎の絵を頼むときは、毎回この英文を入れ、刀の設定画(非公開の images/kurou-katana.png)も添付する。
+**刀の決まり(11/1 夜に簡単にした)**:封印や札はやめ、普通の打刀にした。細部の揺れは許す。九郎の絵を頼むときは、この英文を入れる。設定画の添付は要らない。
 
 ```
-Kurou's katana (fixed design, the same in every image):
-- A standard uchigatana, fully sheathed and sealed. The blade is never visible.
-- Total length including handle and scabbard: just over 100 cm (blade about 71 cm). On a 172 cm youth, when worn at the left hip, the handle top is around his lower chest and the scabbard tip is around his knee.
-- A gentle, natural curve along its whole length like a real katana, never bent sharply or kinked.
-- The scabbard is a real katana scabbard shape (slim, slightly oval, tapering a little toward the tip), not a tube or a staff.
-- Handle: dark, plainly wrapped. A small round guard.
-- Seal: one narrow paper talisman runs lengthwise along the sword, pasted from the handle collar, over the edge of the guard, onto the scabbard mouth, sealing the sword shut. One small gold menuki is visible in the middle of the handle. Only a few other talismans (about three) are wrapped around the scabbard, spaced apart, with plenty of the black lacquered scabbard visible. No cords. No tassels.
-- Worn at his left hip, thrust through the sash. In standing sprites, his left hand rests lightly on the scabbard just below the guard.
+Kurou's katana: an ordinary uchigatana with a black lacquered scabbard and a gentle natural curve. No paper talismans, no seals, no cords, no tassels. When dealing with yokai he keeps it sheathed and strikes with the scabbard.
 ```
 
 注意:足元は草履に足袋(10/30 変更。以前はスニーカー)。顔の造りは整っているが地味(10/29)。美形として目立たせない。表情は真顔で、色気や爽やかさは出さない。注意:髪は「真っ黒(jet black)」。焦げ茶に寄りやすいので、シオンの焦げ茶と区別できるよう毎回指定する。動きは力任せにせず、礼法の型で美しく。
@@ -82,7 +75,7 @@ Face: a plain, average-looking boyish face, not a pretty boy and not a rugged ma
 Body: about 172 cm, skinny and lanky with clearly sloping, narrow shoulders. NOT muscular, NOT broad-shouldered, NOT tall and imposing. Only his hands look hardened from training.
 Hair: long straight black hair reaching his mid-back, tied in a single low ponytail at the nape.
 Clothes: one old indigo kimono and hakama he took from his family home and keeps wearing: originally fine quality but now visibly faded, frayed at the hems and patched in several places. On the back, the family crest has been removed, leaving only a faded mark where the crest used to be.
-Sword: only one katana, which cannot be drawn; its scabbard is wrapped with paper talismans and tied shut with a red cord.
+Sword: only one ordinary katana in a black lacquered scabbard. No talismans, no cords.
 Footwear (changed 2026-10-30): worn traditional zori sandals with dark indigo thongs and off-white tabi socks. NO sneakers.
 Modern items: a convenience store plastic bag with cat treats. He has NO phone at all: do not draw any phone or flip phone anywhere.
 
@@ -92,7 +85,7 @@ Version B: push it further: an even stranger, more deadpan and absurd look, extr
 Each sheet includes: full body front, side and back views with the same items in every view;
 expressions with almost no change: deadpan stare, deadpan deep formal bow, deadpan while saying something absurd, and an intense fighting face (the only clearly different one);
 one action pose striking with the sheathed sword in a beautiful formal stance;
-close-ups of the talisman-sealed scabbard, the removed family crest mark on the back, and the cat treat bag. No animals. No text in the image.
+close-ups of the katana in its black scabbard, the removed family crest mark on the back, and the cat treat bag. No animals. No text in the image.
 ```
 
 ### シオン
@@ -146,6 +139,6 @@ Heights (very important): Tsugumi about 155 cm (the shortest), Shion about 163 c
 
 Keep each face and design exactly as in their own sheet. Do not mix faces or hairstyles between them.
 - Tsugumi: 17, short madder-red hair with a red cord, white and vermilion miko outfit, small paper lantern at her waist, white sneakers, one small round stemless wireless earbud, white with a small vermilion accent ring (no stem, no wire). Dreamy expression, looking slightly off to the side.
-- Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one katana with a talisman-wrapped scabbard tied with a red cord, worn traditional zori sandals with off-white tabi socks (no sneakers), convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
+- Kurou: 18, skinny teenage boy with sloping shoulders, long jet-black hair (pure black) in a low ponytail, worn indigo kimono and hakama, one ordinary katana in a black lacquered scabbard, worn traditional zori sandals with off-white tabi socks (no sneakers), convenience store bag with cat treats. No phone. Deadpan expression, staring straight ahead.
 - Shion: 22, warm dark brown hair (clearly brown, not black) in a bun with a writing brush stuck through it, round glasses with large round brown eyes, dark green haori, black sleeve covers, light ash-gray hakama, white socks and black loafers, staff ID lanyard, thick ledger. Slightly tired, sarcastic small smile.
 ```

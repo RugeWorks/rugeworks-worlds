@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-10-30 08:30
+版:2026-11-01 16:30
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -54,6 +54,19 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 ### 九郎
 
 **基準画像:A案(2026-10-28 仮完成)**。以降は同じチャットで、この顔・髪型・体格を変えずに直す。B案(より爽やかな印象)は別の場面用に残しておく。
+
+**刀の決まり(11/1 決定)**:九郎の絵を頼むときは、毎回この英文を入れる。
+
+```
+Kurou's katana (fixed design, the same in every image):
+- A standard uchigatana, fully sheathed and sealed. The blade is never visible.
+- Total length including handle and scabbard: just over 100 cm (blade about 71 cm). On a 172 cm youth, when worn at the left hip, the handle top is around his lower chest and the scabbard tip is around his knee.
+- A gentle, natural curve along its whole length like a real katana, never bent sharply or kinked.
+- The scabbard is a real katana scabbard shape (slim, slightly oval, tapering a little toward the tip), not a tube or a staff.
+- Handle: dark, plainly wrapped. A small round guard.
+- The scabbard is wrapped all along in paper talismans with faded red markings, tied shut with red cords crossing at regular intervals. Two red tassels hang from the cord near the bottom.
+- Worn at his left hip, thrust through the sash. In standing sprites, his left hand rests lightly on the scabbard just below the guard.
+```
 
 注意:足元は草履に足袋(10/30 変更。以前はスニーカー)。顔の造りは整っているが地味(10/29)。美形として目立たせない。表情は真顔で、色気や爽やかさは出さない。注意:髪は「真っ黒(jet black)」。焦げ茶に寄りやすいので、シオンの焦げ茶と区別できるよう毎回指定する。動きは力任せにせず、礼法の型で美しく。
 

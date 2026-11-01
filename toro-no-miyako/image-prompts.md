@@ -1,6 +1,6 @@
 # 灯籠の都(仮題)画像生成の指示
 
-版:2026-11-01 17:40
+版:2026-11-01 17:55
 
 監修役のAIが画像を作るときの共通ルールと、キャラクターシートの指示文。設定は [settei.md](./settei.md) と [characters.md](./characters.md) を優先する。
 
@@ -55,7 +55,7 @@ Close-ups of the waist lantern, the notebook and the smartphone with its charm. 
 
 **基準画像:A案(2026-10-28 仮完成)**。以降は同じチャットで、この顔・髪型・体格を変えずに直す。B案(より爽やかな印象)は別の場面用に残しておく。
 
-**刀の決まり(11/1 決定)**:九郎の絵を頼むときは、毎回この英文を入れる。
+**刀の決まり(11/1 決定)**:九郎の絵を頼むときは、毎回この英文を入れ、刀の設定画(非公開の images/kurou-katana.png)も添付する。
 
 ```
 Kurou's katana (fixed design, the same in every image):
@@ -64,7 +64,7 @@ Kurou's katana (fixed design, the same in every image):
 - A gentle, natural curve along its whole length like a real katana, never bent sharply or kinked.
 - The scabbard is a real katana scabbard shape (slim, slightly oval, tapering a little toward the tip), not a tube or a staff.
 - Handle: dark, plainly wrapped. A small round guard.
-- Seal: one narrow paper talisman runs lengthwise along the sword, pasted from the handle collar, over the edge of the guard, onto the scabbard mouth, sealing the sword shut. Only a few other talismans (about three) are wrapped around the scabbard, spaced apart, with plenty of the black lacquered scabbard visible. No cords. No tassels.
+- Seal: one narrow paper talisman runs lengthwise along the sword, pasted from the handle collar, over the edge of the guard, onto the scabbard mouth, sealing the sword shut. One small gold menuki is visible in the middle of the handle. Only a few other talismans (about three) are wrapped around the scabbard, spaced apart, with plenty of the black lacquered scabbard visible. No cords. No tassels.
 - Worn at his left hip, thrust through the sash. In standing sprites, his left hand rests lightly on the scabbard just below the guard.
 ```
 
